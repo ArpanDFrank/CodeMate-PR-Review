@@ -69,6 +69,9 @@ python main.py --server github --repo ArpanDFrank/assignment-68ce73a16c7fae7b03b
 * If the PR number is invalid or token is incorrect, an error message is displayed.
 ![Image of Output](image.png)
 
+*Run this command on cmd on root directory of assignment
+python -u "c:\Users\hp pavillion\Codemate\assignment-68ce73a16c7fae7b03b339c4\main.py" --server github --repo ArpanDFrank/Smart-Irrigation-System --pr 1 --token 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
+
 ---
 
 ## Demo Video
