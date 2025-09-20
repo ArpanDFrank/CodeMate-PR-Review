@@ -1,0 +1,6 @@
+# Secrets and env
+.env
+cred.env
+__pycache__/
+*.pyc
+temp_repo/
